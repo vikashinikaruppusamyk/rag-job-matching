@@ -1,0 +1,41 @@
+John Doe
+john@example.com | (555) 123-4567 | linkedin.com/in/johndoe
+
+PROFESSIONAL SUMMARY
+Backend engineer with 6 years of experience building scalable APIs and microservices.
+Expertise in Python, Go, and cloud infrastructure. Proven track record at Series B startups.
+
+WORK EXPERIENCE
+
+Senior Backend Engineer at TechCorp (2022-Present)
+- Led migration of monolith to microservices using Kubernetes
+- Built REST APIs using FastAPI, serving 10M+ requests/day
+- Reduced database query latency by 40% through indexing optimization
+- Mentored 3 junior engineers
+
+Backend Developer at StartupXYZ (2019-2022)
+- Developed Django REST APIs for e-commerce platform
+- Worked with PostgreSQL, Redis, Elasticsearch
+- Implemented real-time notifications using WebSockets
+- 6 years total experience with Python
+
+Junior Developer at TechStudio (2018-2019)
+- Built web applications using Node.js and React
+- Worked with MySQL databases
+- Contributed to open source projects
+
+EDUCATION
+B.Tech in Computer Science
+University of XYZ, 2018
+GPA: 3.8/4.0
+
+SKILLS
+Languages: Python, JavaScript, Go, Java
+Frameworks: FastAPI, Django, React, Node.js, Express
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+Cloud: AWS, Docker, Kubernetes, Terraform
+Tools: Git, GitHub, CI/CD, Linux
+Soft Skills: Leadership, Mentoring, Problem Solving
+
+CERTIFICATIONS
+AWS Certified Solutions Architect - Associate (2021)
