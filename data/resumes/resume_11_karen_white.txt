@@ -1,0 +1,29 @@
+Karen White
+Email: karen.white@example.com | Phone: +91-XXXXXXXXXX | LinkedIn: linkedin.com/in/karen-white
+
+PROFESSIONAL SUMMARY
+Infrastructure Engineer with 4 years in cloud platform engineering. Experience with cloud technologies, microservices, and modern development practices.
+
+WORK EXPERIENCE
+Senior Position at Company (2023-Present)
+- Worked on critical systems and architecture decisions
+- Led a team of engineers
+- Improved system performance by 40%
+
+Mid-Level Position at Organization (2021-2023)
+- Developed features using modern technologies
+- Mentored junior developers
+- 4 years of professional experience
+
+Junior Position at StartupCo (2020-2021)
+- Built applications from scratch
+- Collaborated with cross-functional teams
+
+EDUCATION
+B.Tech IT, Manipal University (2021)
+
+SKILLS
+Kubernetes, Docker, AWS, Terraform, Python, GitHub Actions, Linux
+
+CERTIFICATIONS
+AWS Certified Associate (2022)

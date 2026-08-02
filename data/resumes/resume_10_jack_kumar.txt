@@ -1,0 +1,29 @@
+Jack Kumar
+Email: jack.kumar@example.com | Phone: +91-XXXXXXXXXX | LinkedIn: linkedin.com/in/jack-kumar
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 7 years of infrastructure and cloud experience. Experience with cloud technologies, microservices, and modern development practices.
+
+WORK EXPERIENCE
+Senior Position at Company (2023-Present)
+- Worked on critical systems and architecture decisions
+- Led a team of engineers
+- Improved system performance by 40%
+
+Mid-Level Position at Organization (2021-2023)
+- Developed features using modern technologies
+- Mentored junior developers
+- 7 years of professional experience
+
+Junior Position at StartupCo (2020-2021)
+- Built applications from scratch
+- Collaborated with cross-functional teams
+
+EDUCATION
+B.Tech Computer Science, JIIT Noida (2017)
+
+SKILLS
+Kubernetes, Docker, Terraform, AWS, Google Cloud, CI/CD, Jenkins, Python, Go
+
+CERTIFICATIONS
+AWS Certified Associate (2022)

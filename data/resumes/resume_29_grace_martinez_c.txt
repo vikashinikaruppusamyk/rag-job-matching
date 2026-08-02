@@ -1,0 +1,29 @@
+Grace Martinez C
+Email: grace.martinez.c@example.com | Phone: +91-XXXXXXXXXX | LinkedIn: linkedin.com/in/grace-martinez-c
+
+PROFESSIONAL SUMMARY
+Data Engineer with 4 years of experience in big data systems. Experience with cloud technologies, microservices, and modern development practices.
+
+WORK EXPERIENCE
+Senior Position at Company (2023-Present)
+- Worked on critical systems and architecture decisions
+- Led a team of engineers
+- Improved system performance by 40%
+
+Mid-Level Position at Organization (2021-2023)
+- Developed features using modern technologies
+- Mentored junior developers
+- 5 years of professional experience
+
+Junior Position at StartupCo (2020-2021)
+- Built applications from scratch
+- Collaborated with cross-functional teams
+
+EDUCATION
+B.Tech IT, BITS Pilani (2020)
+
+SKILLS
+Python, Spark, Hadoop, PostgreSQL, AWS, Kubernetes, Docker, ETL
+
+CERTIFICATIONS
+AWS Certified Associate (2022)
