@@ -1,0 +1,135 @@
+{
+  "job_description": "Data Engineer\n\nCompany: DataCorp\nLocation: Hyderabad\n\nHelp us build data pipelines and warehousing solutions.\n\nRequirements:\n- 3+ years data engineering experience\n- Python programming\n- SQL expertise\n- ETL/ELT pipeline development\n- Apache Spark knowledge\n- Data warehouse concepts\n- PostgreSQL or similar databases\n- Big data technologies\n\nNice to Have:\n- Hadoop experience\n- Airflow orchestration\n- AWS Glue or Redshift\n- Scala programming\n- Machine learning pipeline knowledge",
+  "top_matches": [
+    {
+      "candidate_name": "Grace Martinez C",
+      "resume_path": "resumes/",
+      "match_score": 68.8,
+      "matched_skills": [
+        "Python",
+        "Aws"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Spark, Hadoop, PostgreSQL, AWS, Kubernetes, Docker, ETL..."
+      ],
+      "reasoning": "Good match: Solid semantic fit (62) with most required keywords (83). 4 years experience."
+    },
+    {
+      "candidate_name": "Grace Martinez",
+      "resume_path": "resumes/",
+      "match_score": 68.7,
+      "matched_skills": [
+        "Python",
+        "Aws"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Spark, Hadoop, PostgreSQL, AWS, Kubernetes, Docker, ETL..."
+      ],
+      "reasoning": "Good match: Solid semantic fit (62) with most required keywords (83). 4 years experience."
+    },
+    {
+      "candidate_name": "Grace Martinez B",
+      "resume_path": "resumes/",
+      "match_score": 68.7,
+      "matched_skills": [
+        "Python",
+        "Aws"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Spark, Hadoop, PostgreSQL, AWS, Kubernetes, Docker, ETL..."
+      ],
+      "reasoning": "Good match: Solid semantic fit (62) with most required keywords (83). 4 years experience."
+    },
+    {
+      "candidate_name": "Frank Chen",
+      "resume_path": "resumes/",
+      "match_score": 50.2,
+      "matched_skills": [
+        "Python",
+        "Aws"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, TensorFlow, PyTorch, FastAPI, AWS, Docker, PostgreSQL, Machine Learning, Deep Learning..."
+      ],
+      "reasoning": "Moderate match: Semantic score 50, keyword coverage 50. 5 years experience."
+    },
+    {
+      "candidate_name": "Frank Chen B",
+      "resume_path": "resumes/",
+      "match_score": 50.2,
+      "matched_skills": [
+        "Python",
+        "Aws"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, TensorFlow, PyTorch, FastAPI, AWS, Docker, PostgreSQL, Machine Learning, Deep Learning..."
+      ],
+      "reasoning": "Moderate match: Semantic score 50, keyword coverage 50. 5 years experience."
+    },
+    {
+      "candidate_name": "Emma Wilson",
+      "resume_path": "resumes/",
+      "match_score": 48.2,
+      "matched_skills": [
+        "Python",
+        "Aws"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Java, Go, Kubernetes, AWS, Google Cloud, PostgreSQL, MongoDB, Terraform..."
+      ],
+      "reasoning": "Moderate match: Semantic score 47, keyword coverage 50. 8 years experience."
+    },
+    {
+      "candidate_name": "Emma Wilson B",
+      "resume_path": "resumes/",
+      "match_score": 48.2,
+      "matched_skills": [
+        "Python",
+        "Aws"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Java, Go, Kubernetes, AWS, Google Cloud, PostgreSQL, MongoDB, Terraform..."
+      ],
+      "reasoning": "Moderate match: Semantic score 47, keyword coverage 50. 8 years experience."
+    },
+    {
+      "candidate_name": "John Doe",
+      "resume_path": "resumes/",
+      "match_score": 47.4,
+      "matched_skills": [
+        "Python",
+        "Aws"
+      ],
+      "relevant_excerpts": [
+        "WORK EXPERIENCE\n\nSenior Backend Engineer at TechCorp (2022-Present)\n- Led migration of monolith to microservices using K..."
+      ],
+      "reasoning": "Moderate match: Semantic score 46, keyword coverage 50. 6 years experience."
+    },
+    {
+      "candidate_name": "David Lee",
+      "resume_path": "resumes/",
+      "match_score": 47.4,
+      "matched_skills": [
+        "Python",
+        "Aws"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Django, PostgreSQL, Docker,..."
+      ],
+      "reasoning": "Moderate match: Semantic score 46, keyword coverage 50. 3 years experience."
+    },
+    {
+      "candidate_name": "David Lee B",
+      "resume_path": "resumes/",
+      "match_score": 47.4,
+      "matched_skills": [
+        "Python",
+        "Aws"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Django, PostgreSQL, Docker,..."
+      ],
+      "reasoning": "Moderate match: Semantic score 46, keyword coverage 50. 3 years experience."
+    }
+  ]
+}

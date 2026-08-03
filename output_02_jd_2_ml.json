@@ -1,0 +1,157 @@
+{
+  "job_description": "Machine Learning Engineer\n\nCompany: AI Systems\nLocation: Bangalore\n\nWe're looking for a talented ML Engineer to build production ML systems.\n\nRequirements:\n- 4+ years of machine learning experience\n- Python programming expertise\n- TensorFlow or PyTorch experience\n- Deep learning and neural networks knowledge\n- Experience with ML frameworks\n- Data preprocessing and feature engineering\n- AWS or GCP cloud experience\n- Model deployment experience\n\nNice to Have:\n- NLP experience\n- Computer vision bac...",
+  "top_matches": [
+    {
+      "candidate_name": "Frank Chen",
+      "resume_path": "resumes/",
+      "match_score": 63.2,
+      "matched_skills": [
+        "Python",
+        "Pytorch",
+        "Tensorflow",
+        "Aws",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, TensorFlow, PyTorch, FastAPI, AWS, Docker, PostgreSQL, Machine Learning, Deep Learning..."
+      ],
+      "reasoning": "Moderate match: Semantic score 60, keyword coverage 71. 5 years experience."
+    },
+    {
+      "candidate_name": "Frank Chen B",
+      "resume_path": "resumes/",
+      "match_score": 63.2,
+      "matched_skills": [
+        "Python",
+        "Pytorch",
+        "Tensorflow",
+        "Aws",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, TensorFlow, PyTorch, FastAPI, AWS, Docker, PostgreSQL, Machine Learning, Deep Learning..."
+      ],
+      "reasoning": "Moderate match: Semantic score 60, keyword coverage 71. 5 years experience."
+    },
+    {
+      "candidate_name": "Grace Martinez",
+      "resume_path": "resumes/",
+      "match_score": 52.3,
+      "matched_skills": [
+        "Python",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Spark, Hadoop, PostgreSQL, AWS, Kubernetes, Docker, ETL..."
+      ],
+      "reasoning": "Moderate match: Semantic score 50, keyword coverage 57. 4 years experience."
+    },
+    {
+      "candidate_name": "Grace Martinez B",
+      "resume_path": "resumes/",
+      "match_score": 52.3,
+      "matched_skills": [
+        "Python",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Spark, Hadoop, PostgreSQL, AWS, Kubernetes, Docker, ETL..."
+      ],
+      "reasoning": "Moderate match: Semantic score 50, keyword coverage 57. 4 years experience."
+    },
+    {
+      "candidate_name": "Grace Martinez C",
+      "resume_path": "resumes/",
+      "match_score": 52.3,
+      "matched_skills": [
+        "Python",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Spark, Hadoop, PostgreSQL, AWS, Kubernetes, Docker, ETL..."
+      ],
+      "reasoning": "Moderate match: Semantic score 50, keyword coverage 57. 4 years experience."
+    },
+    {
+      "candidate_name": "Karen White",
+      "resume_path": "resumes/",
+      "match_score": 49.7,
+      "matched_skills": [
+        "Python",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nKubernetes, Docker, AWS, Terraform, Python,..."
+      ],
+      "reasoning": "Moderate match: Semantic score 46, keyword coverage 57. 4 years experience."
+    },
+    {
+      "candidate_name": "Jack Kumar",
+      "resume_path": "resumes/",
+      "match_score": 49.6,
+      "matched_skills": [
+        "Python",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nKubernetes, Docker, Terraform, AWS, Google Cloud, CI/CD, Jenkins, Python, Go..."
+      ],
+      "reasoning": "Moderate match: Semantic score 46, keyword coverage 57. 7 years experience."
+    },
+    {
+      "candidate_name": "Jack Kumar B",
+      "resume_path": "resumes/",
+      "match_score": 49.6,
+      "matched_skills": [
+        "Python",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nKubernetes, Docker, Terraform, AWS, Google Cloud, CI/CD, Jenkins, Python, Go..."
+      ],
+      "reasoning": "Moderate match: Semantic score 46, keyword coverage 57. 7 years experience."
+    },
+    {
+      "candidate_name": "John Doe",
+      "resume_path": "resumes/",
+      "match_score": 48.7,
+      "matched_skills": [
+        "Python",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nLanguages: Python, JavaScript, Go, Java\nFrameworks: FastAPI, Django, React, Node.js, Express\nDatabases: PostgreSQ..."
+      ],
+      "reasoning": "Moderate match: Semantic score 45, keyword coverage 57. 6 years experience."
+    },
+    {
+      "candidate_name": "Carol Davis",
+      "resume_path": "resumes/",
+      "match_score": 48.5,
+      "matched_skills": [
+        "Python",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Go, Kubernetes, AWS, PostgreSQL, Docker, Terraform, Redis..."
+      ],
+      "reasoning": "Moderate match: Semantic score 45, keyword coverage 57. 6 years experience."
+    }
+  ]
+}

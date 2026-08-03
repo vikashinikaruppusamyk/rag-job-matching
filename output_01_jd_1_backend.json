@@ -1,0 +1,159 @@
+{
+  "job_description": "Senior Backend Engineer - Python FastAPI\n\nCompany: TechCorp\nLocation: Remote\n\nJob Description:\nWe are hiring a Senior Backend Engineer to build scalable microservices for our platform.\n\nRequirements:\n- 5+ years of backend development experience\n- Expert-level Python skills\n- Strong experience with FastAPI framework\n- PostgreSQL and Redis expertise\n- Docker and Kubernetes knowledge\n- AWS cloud platform experience\n- REST API design and implementation\n- Microservices architecture understanding\n\nNic...",
+  "top_matches": [
+    {
+      "candidate_name": "John Doe",
+      "resume_path": "resumes/",
+      "match_score": 76.7,
+      "matched_skills": [
+        "Redis",
+        "Python",
+        "Fastapi",
+        "Aws",
+        "Kubernetes"
+      ],
+      "relevant_excerpts": [
+        "WORK EXPERIENCE\n\nSenior Backend Engineer at TechCorp (2022-Present)\n- Led migration of monolith to microservices using K..."
+      ],
+      "reasoning": "Good match: Solid semantic fit (67) with most required keywords (100). 6 years experience."
+    },
+    {
+      "candidate_name": "Alice Johnson",
+      "resume_path": "resumes/",
+      "match_score": 74.9,
+      "matched_skills": [
+        "Redis",
+        "Python",
+        "Fastapi",
+        "Aws",
+        "Kubernetes"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, FastAPI, Django, PostgreSQL, Docker, Kubernetes, AWS, Redis..."
+      ],
+      "reasoning": "Good match: Solid semantic fit (64) with most required keywords (100). 7 years experience."
+    },
+    {
+      "candidate_name": "Alice Johnson B",
+      "resume_path": "resumes/",
+      "match_score": 74.9,
+      "matched_skills": [
+        "Redis",
+        "Python",
+        "Fastapi",
+        "Aws",
+        "Kubernetes"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, FastAPI, Django, PostgreSQL, Docker, Kubernetes, AWS, Redis..."
+      ],
+      "reasoning": "Good match: Solid semantic fit (64) with most required keywords (100). 7 years experience."
+    },
+    {
+      "candidate_name": "Frank Chen",
+      "resume_path": "resumes/",
+      "match_score": 63.4,
+      "matched_skills": [
+        "Python",
+        "Fastapi",
+        "Aws",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, TensorFlow, PyTorch, FastAPI, AWS, Docker, PostgreSQL, Machine Learning, Deep Learning..."
+      ],
+      "reasoning": "Moderate match: Semantic score 60, keyword coverage 71. 5 years experience."
+    },
+    {
+      "candidate_name": "Frank Chen B",
+      "resume_path": "resumes/",
+      "match_score": 63.4,
+      "matched_skills": [
+        "Python",
+        "Fastapi",
+        "Aws",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, TensorFlow, PyTorch, FastAPI, AWS, Docker, PostgreSQL, Machine Learning, Deep Learning..."
+      ],
+      "reasoning": "Moderate match: Semantic score 60, keyword coverage 71. 5 years experience."
+    },
+    {
+      "candidate_name": "Iris Patel",
+      "resume_path": "resumes/",
+      "match_score": 62.1,
+      "matched_skills": [
+        "Python",
+        "Fastapi",
+        "Aws",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nJavaScript, TypeScript, React, Python, FastAPI, PostgreSQL, Docker, AWS, GraphQL..."
+      ],
+      "reasoning": "Moderate match: Semantic score 58, keyword coverage 71. 6 years experience."
+    },
+    {
+      "candidate_name": "Iris Patel B",
+      "resume_path": "resumes/",
+      "match_score": 62.1,
+      "matched_skills": [
+        "Python",
+        "Fastapi",
+        "Aws",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nJavaScript, TypeScript, React, Python, FastAPI, PostgreSQL, Docker, AWS, GraphQL..."
+      ],
+      "reasoning": "Moderate match: Semantic score 58, keyword coverage 71. 6 years experience."
+    },
+    {
+      "candidate_name": "Carol Davis",
+      "resume_path": "resumes/",
+      "match_score": 60.7,
+      "matched_skills": [
+        "Redis",
+        "Python",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Go, Kubernetes, AWS, PostgreSQL, Docker, Terraform, Redis..."
+      ],
+      "reasoning": "Moderate match: Semantic score 50, keyword coverage 86. 6 years experience."
+    },
+    {
+      "candidate_name": "Carol Davis B",
+      "resume_path": "resumes/",
+      "match_score": 60.7,
+      "matched_skills": [
+        "Redis",
+        "Python",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Go, Kubernetes, AWS, PostgreSQL, Docker, Terraform, Redis..."
+      ],
+      "reasoning": "Moderate match: Semantic score 50, keyword coverage 86. 6 years experience."
+    },
+    {
+      "candidate_name": "Henry Brown B",
+      "resume_path": "resumes/",
+      "match_score": 52.5,
+      "matched_skills": [
+        "Python",
+        "Aws",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nJavaScript, React, Python, Django, PostgreSQL, Docker, AWS, Node.js, MongoDB..."
+      ],
+      "reasoning": "Moderate match: Semantic score 50, keyword coverage 57. 5 years experience."
+    }
+  ]
+}

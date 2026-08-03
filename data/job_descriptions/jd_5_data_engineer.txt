@@ -1,0 +1,23 @@
+Data Engineer
+
+Company: DataCorp
+Location: Hyderabad
+
+Help us build data pipelines and warehousing solutions.
+
+Requirements:
+- 3+ years data engineering experience
+- Python programming
+- SQL expertise
+- ETL/ELT pipeline development
+- Apache Spark knowledge
+- Data warehouse concepts
+- PostgreSQL or similar databases
+- Big data technologies
+
+Nice to Have:
+- Hadoop experience
+- Airflow orchestration
+- AWS Glue or Redshift
+- Scala programming
+- Machine learning pipeline knowledge

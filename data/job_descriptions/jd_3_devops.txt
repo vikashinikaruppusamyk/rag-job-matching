@@ -1,0 +1,23 @@
+DevOps Engineer - Infrastructure Specialist
+
+Company: CloudInfra
+Location: Remote
+
+Join our infrastructure team to build and maintain cloud platforms.
+
+Requirements:
+- 5+ years DevOps/Infrastructure experience
+- Kubernetes cluster management
+- Docker containerization
+- Terraform and Infrastructure as Code
+- AWS or Google Cloud expertise
+- CI/CD pipeline design and implementation
+- Linux system administration
+- Monitoring and logging systems
+
+Nice to Have:
+- Helm chart experience
+- Jenkins or GitLab CI knowledge
+- Prometheus/Grafana experience
+- Python scripting
+- API gateway experience

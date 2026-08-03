@@ -1,0 +1,23 @@
+Full Stack Engineer - React + Node.js
+
+Company: WebServices Inc
+Location: Bengaluru
+
+We need a Full Stack Engineer to build modern web applications.
+
+Requirements:
+- 4+ years full stack development experience
+- React.js expertise
+- Node.js backend skills
+- JavaScript/TypeScript fluency
+- PostgreSQL or MongoDB experience
+- REST API development
+- Git version control
+- Docker knowledge
+
+Nice to Have:
+- GraphQL experience
+- AWS deployment
+- CI/CD experience
+- Testing frameworks (Jest, Mocha)
+- Agile methodology experience

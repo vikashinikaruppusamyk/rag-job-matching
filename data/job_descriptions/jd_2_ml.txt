@@ -1,0 +1,23 @@
+Machine Learning Engineer
+
+Company: AI Systems
+Location: Bangalore
+
+We're looking for a talented ML Engineer to build production ML systems.
+
+Requirements:
+- 4+ years of machine learning experience
+- Python programming expertise
+- TensorFlow or PyTorch experience
+- Deep learning and neural networks knowledge
+- Experience with ML frameworks
+- Data preprocessing and feature engineering
+- AWS or GCP cloud experience
+- Model deployment experience
+
+Nice to Have:
+- NLP experience
+- Computer vision background
+- MLOps knowledge
+- Kubernetes deployment
+- Docker containerization

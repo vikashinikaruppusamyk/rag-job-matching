@@ -6,55 +6,19 @@ from openai import OpenAI
 
 load_dotenv()
 
-# Initialize clients
-db_client = chromadb.Client()
+# Use persistent client instead of in-memory
+db_path = './chroma_data'
+os.makedirs(db_path, exist_ok=True)
+db_client = chromadb.PersistentClient(path=db_path)
+
 openai_client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 def init_collection(collection_name: str = 'resumes'):
-    """Initialize or get ChromaDB collection."""
+    """Initialize or get ChromaDB collection (persistent)."""
     collection = db_client.get_or_create_collection(
         name=collection_name,
         metadata={"hnsw:space": "cosine"}
     )
-    return collection
-
-def store_embeddings_in_db(cache_file: str = 'embeddings_cache.json', collection_name: str = 'resumes'):
-    """Load embeddings from cache and store in ChromaDB."""
-    
-    collection = init_collection(collection_name)
-    
-    # Load embeddings from cache
-    with open(cache_file, 'r') as f:
-        embeddings_data = json.load(f)
-    
-    print(f"Storing {len(embeddings_data)} embeddings in ChromaDB...\n")
-    
-    # Store each embedding
-    for i, (doc_id, item) in enumerate(embeddings_data.items(), 1):
-        try:
-            # Get source, default to empty string if not present
-            source = item['metadata'].get('source', '')
-            
-            collection.add(
-                ids=[doc_id],
-                embeddings=[item['embedding']],
-                documents=[item['text']],
-                metadatas=[{
-                    'name': item['metadata']['name'],
-                    'years_exp': item['metadata']['years_exp'],
-                    'skills': ', '.join(item['metadata']['skills']),
-                    'section': item['section'],
-                    'source': source
-                }]
-            )
-            
-            if i % 50 == 0:
-                print(f"  Stored {i}/{len(embeddings_data)} embeddings...")
-        
-        except Exception as e:
-            print(f"Error storing {doc_id}: {e}")
-    
-    print(f"\n✓ Successfully stored {len(embeddings_data)} embeddings in ChromaDB\n")
     return collection
 
 def embed_query(query: str) -> list:
@@ -96,28 +60,15 @@ def test_retrieval(collection, query: str, top_k: int = 5):
 
 if __name__ == '__main__':
     print("=" * 60)
-    print("CHROMADB SETUP & RETRIEVAL TEST")
+    print("TESTING PERSISTENT CHROMADB")
     print("=" * 60 + "\n")
     
-    # Store embeddings
-    collection = store_embeddings_in_db()
+    collection = init_collection()
+    count = collection.count()
+    print(f"Collection has {count} embeddings\n")
     
-    # Test retrieval with sample queries
+    # Test retrieval
     print("=" * 60)
-    print("RETRIEVAL TEST 1: Backend Engineer")
+    print("RETRIEVAL TEST")
     print("=" * 60 + "\n")
     test_retrieval(collection, "Python backend engineer with 5+ years experience", top_k=5)
-    
-    print("=" * 60)
-    print("RETRIEVAL TEST 2: ML Engineer")
-    print("=" * 60 + "\n")
-    test_retrieval(collection, "Machine learning engineer with TensorFlow and deep learning", top_k=5)
-    
-    print("=" * 60)
-    print("RETRIEVAL TEST 3: DevOps Engineer")
-    print("=" * 60 + "\n")
-    test_retrieval(collection, "DevOps engineer with Kubernetes and Docker experience", top_k=5)
-    
-    print("=" * 60)
-    print("✓ ChromaDB setup complete!")
-    print("=" * 60)

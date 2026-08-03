@@ -1,0 +1,23 @@
+Senior Backend Engineer - Python FastAPI
+
+Company: TechCorp
+Location: Remote
+
+Job Description:
+We are hiring a Senior Backend Engineer to build scalable microservices for our platform.
+
+Requirements:
+- 5+ years of backend development experience
+- Expert-level Python skills
+- Strong experience with FastAPI framework
+- PostgreSQL and Redis expertise
+- Docker and Kubernetes knowledge
+- AWS cloud platform experience
+- REST API design and implementation
+- Microservices architecture understanding
+
+Nice to Have:
+- GraphQL experience
+- CI/CD pipeline knowledge
+- gRPC experience
+- Message queue systems (RabbitMQ, Kafka)

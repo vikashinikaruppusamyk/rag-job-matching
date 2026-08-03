@@ -1,0 +1,153 @@
+{
+  "job_description": "Full Stack Engineer - React + Node.js\n\nCompany: WebServices Inc\nLocation: Bengaluru\n\nWe need a Full Stack Engineer to build modern web applications.\n\nRequirements:\n- 4+ years full stack development experience\n- React.js expertise\n- Node.js backend skills\n- JavaScript/TypeScript fluency\n- PostgreSQL or MongoDB experience\n- REST API development\n- Git version control\n- Docker knowledge\n\nNice to Have:\n- GraphQL experience\n- AWS deployment\n- CI/CD experience\n- Testing frameworks (Jest, Mocha)\n- Agile...",
+  "top_matches": [
+    {
+      "candidate_name": "Henry Brown",
+      "resume_path": "resumes/",
+      "match_score": 67.3,
+      "matched_skills": [
+        "Node",
+        "React",
+        "Aws",
+        "Mongodb",
+        "Javascript"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nJavaScript, React, Python, Django, PostgreSQL, Docker, AWS, Node.js, MongoDB..."
+      ],
+      "reasoning": "Moderate match: Semantic score 59, keyword coverage 88. 5 years experience."
+    },
+    {
+      "candidate_name": "Henry Brown B",
+      "resume_path": "resumes/",
+      "match_score": 67.3,
+      "matched_skills": [
+        "Node",
+        "React",
+        "Aws",
+        "Mongodb",
+        "Javascript"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nJavaScript, React, Python, Django, PostgreSQL, Docker, AWS, Node.js, MongoDB..."
+      ],
+      "reasoning": "Moderate match: Semantic score 59, keyword coverage 88. 5 years experience."
+    },
+    {
+      "candidate_name": "Henry Brown C",
+      "resume_path": "resumes/",
+      "match_score": 67.3,
+      "matched_skills": [
+        "Node",
+        "React",
+        "Aws",
+        "Mongodb",
+        "Javascript"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nJavaScript, React, Python, Django, PostgreSQL, Docker, AWS, Node.js, MongoDB..."
+      ],
+      "reasoning": "Moderate match: Semantic score 59, keyword coverage 88. 5 years experience."
+    },
+    {
+      "candidate_name": "Iris Patel B",
+      "resume_path": "resumes/",
+      "match_score": 65.6,
+      "matched_skills": [
+        "React",
+        "Aws",
+        "Typescript",
+        "Javascript",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nJavaScript, TypeScript, React, Python, FastAPI, PostgreSQL, Docker, AWS, GraphQL..."
+      ],
+      "reasoning": "Good match: Solid semantic fit (62) with most required keywords (75). 6 years experience."
+    },
+    {
+      "candidate_name": "Iris Patel",
+      "resume_path": "resumes/",
+      "match_score": 65.6,
+      "matched_skills": [
+        "React",
+        "Aws",
+        "Typescript",
+        "Javascript",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nJavaScript, TypeScript, React, Python, FastAPI, PostgreSQL, Docker, AWS, GraphQL..."
+      ],
+      "reasoning": "Good match: Solid semantic fit (62) with most required keywords (75). 6 years experience."
+    },
+    {
+      "candidate_name": "John Doe",
+      "resume_path": "resumes/",
+      "match_score": 63.4,
+      "matched_skills": [
+        "Node",
+        "React",
+        "Aws",
+        "Mongodb",
+        "Javascript"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nLanguages: Python, JavaScript, Go, Java\nFrameworks: FastAPI, Django, React, Node.js, Express\nDatabases: PostgreSQ..."
+      ],
+      "reasoning": "Moderate match: Semantic score 53, keyword coverage 88. 6 years experience."
+    },
+    {
+      "candidate_name": "Alice Johnson",
+      "resume_path": "resumes/",
+      "match_score": 45.5,
+      "matched_skills": [
+        "Aws",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, FastAPI, Django, PostgreSQL, Docker, Kubernetes, AWS, Redis..."
+      ],
+      "reasoning": "Moderate match: Semantic score 49, keyword coverage 38. 7 years experience."
+    },
+    {
+      "candidate_name": "Alice Johnson B",
+      "resume_path": "resumes/",
+      "match_score": 45.5,
+      "matched_skills": [
+        "Aws",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, FastAPI, Django, PostgreSQL, Docker, Kubernetes, AWS, Redis..."
+      ],
+      "reasoning": "Moderate match: Semantic score 49, keyword coverage 38. 7 years experience."
+    },
+    {
+      "candidate_name": "Frank Chen",
+      "resume_path": "resumes/",
+      "match_score": 44.9,
+      "matched_skills": [
+        "Aws",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, TensorFlow, PyTorch, FastAPI, AWS, Docker, PostgreSQL, Machine Learning, Deep Learning..."
+      ],
+      "reasoning": "Moderate match: Semantic score 48, keyword coverage 38. 5 years experience."
+    },
+    {
+      "candidate_name": "Frank Chen B",
+      "resume_path": "resumes/",
+      "match_score": 44.9,
+      "matched_skills": [
+        "Aws",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, TensorFlow, PyTorch, FastAPI, AWS, Docker, PostgreSQL, Machine Learning, Deep Learning..."
+      ],
+      "reasoning": "Moderate match: Semantic score 48, keyword coverage 38. 5 years experience."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "job_description": "DevOps Engineer - Infrastructure Specialist\n\nCompany: CloudInfra\nLocation: Remote\n\nJoin our infrastructure team to build and maintain cloud platforms.\n\nRequirements:\n- 5+ years DevOps/Infrastructure experience\n- Kubernetes cluster management\n- Docker containerization\n- Terraform and Infrastructure as Code\n- AWS or Google Cloud expertise\n- CI/CD pipeline design and implementation\n- Linux system administration\n- Monitoring and logging systems\n\nNice to Have:\n- Helm chart experience\n- Jenkins or Git...",
+  "top_matches": [
+    {
+      "candidate_name": "Jack Kumar",
+      "resume_path": "resumes/",
+      "match_score": 68.2,
+      "matched_skills": [
+        "Python",
+        "Terraform",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nKubernetes, Docker, Terraform, AWS, Google Cloud, CI/CD, Jenkins, Python, Go..."
+      ],
+      "reasoning": "Good match: Solid semantic fit (61) with most required keywords (86). 7 years experience."
+    },
+    {
+      "candidate_name": "Jack Kumar B",
+      "resume_path": "resumes/",
+      "match_score": 68.2,
+      "matched_skills": [
+        "Python",
+        "Terraform",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nKubernetes, Docker, Terraform, AWS, Google Cloud, CI/CD, Jenkins, Python, Go..."
+      ],
+      "reasoning": "Good match: Solid semantic fit (61) with most required keywords (86). 7 years experience."
+    },
+    {
+      "candidate_name": "Carol Davis",
+      "resume_path": "resumes/",
+      "match_score": 57.1,
+      "matched_skills": [
+        "Python",
+        "Terraform",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Go, Kubernetes, AWS, PostgreSQL, Docker, Terraform, Redis..."
+      ],
+      "reasoning": "Moderate match: Semantic score 51, keyword coverage 71. 6 years experience."
+    },
+    {
+      "candidate_name": "Carol Davis B",
+      "resume_path": "resumes/",
+      "match_score": 57.1,
+      "matched_skills": [
+        "Python",
+        "Terraform",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Go, Kubernetes, AWS, PostgreSQL, Docker, Terraform, Redis..."
+      ],
+      "reasoning": "Moderate match: Semantic score 51, keyword coverage 71. 6 years experience."
+    },
+    {
+      "candidate_name": "John Doe",
+      "resume_path": "resumes/",
+      "match_score": 55.3,
+      "matched_skills": [
+        "Python",
+        "Terraform",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nLanguages: Python, JavaScript, Go, Java\nFrameworks: FastAPI, Django, React, Node.js, Express\nDatabases: PostgreSQ..."
+      ],
+      "reasoning": "Moderate match: Semantic score 48, keyword coverage 71. 6 years experience."
+    },
+    {
+      "candidate_name": "Emma Wilson",
+      "resume_path": "resumes/",
+      "match_score": 53.9,
+      "matched_skills": [
+        "Python",
+        "Terraform",
+        "Aws",
+        "Kubernetes"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Java, Go, Kubernetes, AWS, Google Cloud, PostgreSQL, MongoDB, Terraform..."
+      ],
+      "reasoning": "Moderate match: Semantic score 52, keyword coverage 57. 8 years experience."
+    },
+    {
+      "candidate_name": "Emma Wilson B",
+      "resume_path": "resumes/",
+      "match_score": 53.9,
+      "matched_skills": [
+        "Python",
+        "Terraform",
+        "Aws",
+        "Kubernetes"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, Java, Go, Kubernetes, AWS, Google Cloud, PostgreSQL, MongoDB, Terraform..."
+      ],
+      "reasoning": "Moderate match: Semantic score 52, keyword coverage 57. 8 years experience."
+    },
+    {
+      "candidate_name": "Alice Johnson",
+      "resume_path": "resumes/",
+      "match_score": 50.1,
+      "matched_skills": [
+        "Python",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, FastAPI, Django, PostgreSQL, Docker, Kubernetes, AWS, Redis..."
+      ],
+      "reasoning": "Moderate match: Semantic score 47, keyword coverage 57. 7 years experience."
+    },
+    {
+      "candidate_name": "Alice Johnson B",
+      "resume_path": "resumes/",
+      "match_score": 50.1,
+      "matched_skills": [
+        "Python",
+        "Aws",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "SKILLS\nPython, FastAPI, Django, PostgreSQL, Docker, Kubernetes, AWS, Redis..."
+      ],
+      "reasoning": "Moderate match: Semantic score 47, keyword coverage 57. 7 years experience."
+    }
+  ]
+}
