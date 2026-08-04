@@ -1,0 +1,74 @@
+{
+  "project": "RAG Job Matching System",
+  "date": "2026-08-06",
+  "summary": {
+    "total_resumes": 30,
+    "total_embeddings": 333,
+    "total_job_descriptions_tested": 5,
+    "hybrid_search_weights": {
+      "semantic": 0.7,
+      "keyword": 0.3
+    }
+  },
+  "performance": {
+    "average_match_score": 57.49,
+    "score_range": {
+      "max": 76.7,
+      "min": 44.9,
+      "spread": 31.8
+    },
+    "skills_matching": {
+      "average_per_candidate": 3.78,
+      "max_matched": 5,
+      "min_matched": 2
+    }
+  },
+  "job_descriptions": [
+    {
+      "jd": "01_jd_1_backend",
+      "top_score": 76.7,
+      "avg_top_3_score": 75.5,
+      "total_matches": 10
+    },
+    {
+      "jd": "02_jd_2_ml",
+      "top_score": 63.2,
+      "avg_top_3_score": 59.56666666666666,
+      "total_matches": 10
+    },
+    {
+      "jd": "03_jd_3_devops",
+      "top_score": 68.2,
+      "avg_top_3_score": 64.5,
+      "total_matches": 9
+    },
+    {
+      "jd": "04_jd_4_fullstack",
+      "top_score": 67.3,
+      "avg_top_3_score": 67.3,
+      "total_matches": 10
+    },
+    {
+      "jd": "05_jd_5_data_engineer",
+      "top_score": 68.8,
+      "avg_top_3_score": 68.73333333333333,
+      "total_matches": 10
+    }
+  ],
+  "retrieval": {
+    "status": "Working",
+    "database_size_embeddings": 333,
+    "retrieval_method": "Semantic search + keyword filtering"
+  },
+  "data_quality": {
+    "resumes_processed": 30,
+    "embeddings_generated": 333,
+    "average_chunks_per_resume": 11,
+    "metadata_extracted": [
+      "name",
+      "years_exp",
+      "skills",
+      "section"
+    ]
+  }
+}
