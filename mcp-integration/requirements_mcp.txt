@@ -1,0 +1,16 @@
+# Core Dependencies
+anthropic>=0.31.0
+pydantic>=2.0.0
+python-dotenv>=0.21.0
+
+# Previous Project Dependencies
+openai>=1.0.0
+chromadb>=0.4.0
+langchain>=0.1.0
+langgraph>=0.0.50
+
+# Optional Dependencies
+pytest>=7.0.0
+pytest-asyncio>=0.20.0
+aiofiles>=23.0.0
+python-json-logger>=2.0.0
